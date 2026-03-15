@@ -46,29 +46,6 @@ todo-app/
 └── README.md         # Project documentation
 ```
 
----
-
-# ⚙️ Installation & Setup
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/todo-list-app.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd todo-list-app
-```
-
-3. Open the application
-
-Simply open `index.html` in your browser.
-
-No additional dependencies or installations are required.
-
----
 
 # 💡 How It Works
 
