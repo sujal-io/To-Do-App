@@ -34,18 +34,6 @@ The main goal of this project is to demonstrate how a clean and modular applicat
 
 ---
 
-# 📂 Project Structure
-
-```
-todo-app/
-│
-├── index.html        # Main HTML structure
-├── style.css         # Styling and responsive design
-├── script.js         # Application logic
-├── EventEmitter.js   # Custom event handling system
-└── README.md         # Project documentation
-```
-
 
 # 💡 How It Works
 
